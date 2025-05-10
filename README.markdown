@@ -4,13 +4,13 @@
 This project implements a customer segmentation analysis using Python and the KMeans clustering algorithm on a credit card transactions dataset. The goal is to identify distinct customer groups based on transaction behavior and demographic details.
 
 ## Dataset
-The dataset contains detailed records of credit card transactions, including:
+The project uses an available dataset  on Kaggle which contains detailed records of credit card transactions, including:
 - Transaction details (amount, timestamp, unique transaction number)
 - Cardholder information (first name, last name, gender, date of birth, occupation, address)
 - Geographical data (city, state, zip, latitude, longitude, population)
 - Merchant information (location, category)
 - Fraud indicators
-
+You can access the **DATASET** for more information or practice here: [Credit Card Transactions Dataset](https://www.kaggle.com/code/sheemamasood/spending-habits-analysis-credit-card-transaction/input)
 ## Methodology
 - **Libraries Used**: Pandas, Matplotlib, Seaborn, NumPy, Scikit-learn, Folium
 - **Steps**:
